@@ -1,0 +1,7 @@
+PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin
+SHELL=/bin/bash
+HOME=/
+MAILTO=""
+
+* * * * * /home/dk/myShell/book_unix-linux-shellscript/0_dk/cron_test.sh
+* * * * * /tmp/cron_test.sh
