@@ -3,8 +3,8 @@
 ####################
 
 ### Reference
-https://lunightstory.tistory.com/8
-https://www.digitalocean.com/community/tutorials/how-to-use-cron-to-automate-tasks-ubuntu-1804
+- https://lunightstory.tistory.com/8
+- https://www.digitalocean.com/community/tutorials/how-to-use-cron-to-automate-tasks-ubuntu-1804
 
 
 ### Basic Info
